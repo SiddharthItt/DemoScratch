@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Jira Settings</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-16 13:48:31</sys_created_on>
+        <sys_id>06801a77db412300f0935740cf9619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jira Settings</sys_name>
+        <sys_package display_value="Basic Service Desk" source="x_279371_basic_ser">efedc6b3db412300f0935740cf9619f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Basic Service Desk">efedc6b3db412300f0935740cf9619f4</sys_scope>
+        <sys_update_name>sys_properties_category_06801a77db412300f0935740cf9619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-16 13:48:31</sys_updated_on>
+        <title><![CDATA[<p> </p>
+<h1><span style="color: #000000; font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: bold; letter-spacing: normal; line-height: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; display: inline ! important; float: none;">Jira Integration Configuration Settings</span></h1>
+<hr />
+<p> </p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=06801a77db412300f0935740cf9619b9"/>
+</record_update>
